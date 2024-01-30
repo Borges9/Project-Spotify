@@ -1,5 +1,5 @@
 .main-container {
-    max-width: 800vw;
+    max-width: 80vw;
     height: 100vh;
     margin-left: 320px;
     margin-right: 56px;
@@ -152,7 +152,7 @@
 
 .cards {
     position: relative;
-    width: 225px;
+    width: 220px;
     height: 107px;
     overflow: hidden;
     border-radius: 10px;
@@ -227,7 +227,7 @@
     --min-container-width: 372px;
 }
 
-.hiden {
+.hidden {
     display: none;
 }
 
