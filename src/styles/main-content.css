@@ -152,14 +152,14 @@
 
 .cards {
     position: relative;
-    width: 220px;
+    width: 210px;
     height: 107px;
     overflow: hidden;
-    border-radius: 10px;
+    border-radius: 12px;
 }
 
 .cards span {
-    padding: 24px;
+    padding: 20px;
     position: absolute;
     color: var(--text-light);
     font-size: 20px;
